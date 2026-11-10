@@ -1,0 +1,1 @@
+t : float = float(input('Introduceti temperatura parcurs: '))
